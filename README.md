@@ -13,14 +13,14 @@ Temperature - which is in C <br />
 Pressure - which is in hpa <br />
 Humidity - which is in % <br />
 
-How to run the simulator:
+<h3> How to run the simulator: </h3>
 Build the project by the following commands
 
 $ mvn compile <br />
 $ mvn clean package <br />
 $ java -jar "<path to this jar> - \target\sdt-toy-simulator-2.0.3-SNAPSHOT-jar-with-dependencies.jar" "<path - of - input text file" <br />
 
-Input:
+<h3>Input:</h3>
 
 The input for the simulator is a text file - A list with set of locations or lat,long values. For Example refer to the below sample <br /> 
 
@@ -34,7 +34,7 @@ punjab <br />
 Sydney <br />
 Melbourne <br />
 
-Output:
+<h3>Output:</h3>
 
 The Ouput is given in below format: 
 
