@@ -26,15 +26,19 @@ $ java -jar "path to this jar - \target\sdt-toy-simulator-2.0.3-SNAPSHOT-jar-wit
 
 The input for the simulator is a text file - A list with set of locations or lat,long values. For Example refer to the below sample <br /> 
 
+22.54994,88.37158 <br />
+7.0077,100.47053  <br />
+hyderabad  <br />
+55.74164,37.60506  <br />
+dubai  <br />
+punjab   <br />
+32.1685,-95.66919  <br />
+Sydney <br />
+Melbourne <br />
+
+where, <br />
+Melbourne - is the location name <br />
 22.54994,88.37158 - lattitude,longitude values<br />
-7.0077,100.47053 - lattitude,longitude values <br />
-hyderabad - location name <br />
-55.74164,37.60506 - lattitude,longitude values <br />
-dubai - location name  <br />
-punjab - location name  <br />
-32.1685,-95.66919 - lattitude,longitude values <br />
-Sydney - location name  <br />
-Melbourne - location name  <br />
 
 <h3>Output:</h3>
 
