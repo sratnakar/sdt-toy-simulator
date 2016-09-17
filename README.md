@@ -17,7 +17,7 @@ Humidity - which is in % <br />
 Build the project by the following commands
 
 $ mvn compile <br />
-$ mvn clean package <br />
+$ mvn package <br />
 $ java -jar "path to this jar - \target\sdt-toy-simulator-2.0.3-SNAPSHOT-jar-with-dependencies.jar" "path/of/input text file" <br />
 
 <h4>Note: </h4> If a text file is not given as an input then by default few locations names have been given as input hence data pertaining to those will be printed.
